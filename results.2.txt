@@ -1,0 +1,3 @@
+man is a leaf?  False
+zebra is a leaf?  False
+fly is a leaf?  True

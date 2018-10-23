@@ -1,0 +1,19 @@
+        zorse
+
+    zebra
+
+        yak
+
+man
+
+            fly
+
+        elephant
+
+    dog
+
+        ape
+
+The parent of  yak is zebra
+The parent of zebra is  man
+Man has no parent

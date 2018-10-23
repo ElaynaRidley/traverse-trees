@@ -1,0 +1,19 @@
+        zorse
+
+    zebra
+
+        yak
+
+man
+
+            fly
+
+        elephant
+
+    dog
+
+        ape
+
+count of nodes is 8
+<__main__.BST.Node object at 0x002F5590>
+count of nodes starting at elephant is 4

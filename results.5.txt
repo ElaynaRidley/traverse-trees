@@ -1,0 +1,24 @@
+        zorse
+
+    zebra
+
+        yak
+
+man
+
+            fly
+
+        elephant
+
+    dog
+
+        ape
+
+True
+    zebra
+
+man
+
+    sheep
+
+False

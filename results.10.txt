@@ -1,0 +1,19 @@
+        zorse
+
+    zebra
+
+        yak
+
+man
+
+            fly
+
+        elephant
+
+    dog
+
+        ape
+
+height of tree is 3
+height of the tree at node elephant is  1
+height of the tree at node yak is  0

@@ -1,0 +1,19 @@
+        zorse
+
+    zebra
+
+        yak
+
+man
+
+            fly
+
+        elephant
+
+    dog
+
+        ape
+
+['man', 'dog', 'ape', 'elephant', 'fly', 'zebra', 'yak', 'zorse']
+['ape', 'dog', 'elephant', 'fly', 'man', 'yak', 'zebra', 'zorse']
+['ape', 'fly', 'elephant', 'dog', 'yak', 'zorse', 'zebra', 'man']
